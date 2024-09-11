@@ -1,4 +1,4 @@
-# Projeto DEVstart #1 – Notas de Atletas
+# Projeto DEVstart #1 – Pontuação dos Atletas
 
 #### Solução para o primeiro projeto de certificação do curso front-end [DEVstart](https://devstart.tech/). 
 
