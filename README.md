@@ -43,7 +43,7 @@ O método mais conveniente de executar o script é utilizando um editor Javascri
 #### Editor online
 
 1. Acesse o seu editor Javascript online de preferência. Alguns exemplos são o editor do [Programiz](https://www.programiz.com/javascript/online-compiler/), o [PlayCode](https://playcode.io/javascript-compiler), e o [CodePen](https://codepen.io/).
-2. Copie o [código]() do arquivo `notas-atletas.js` e cole no editor de texto do site.
+2. Copie o [código](https://github.com/arthur-tsutiya/notas-atletas/blob/main/notas-atletas.js) do arquivo `notas-atletas.js` e cole no editor de texto do site.
 3. Execute o programa.
 
 #### Node.js
